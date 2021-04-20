@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Renan Soares
-- 👀 I’m interested to learn about programming.
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on projects that use python.
-- 📫 How to reach me renansoares756@gmail.com
+- 👋 Oi, sou Renan Soares
+- 👀 Estou interessado em aprender sobre programação.
+- 🌱 Atualmente estou aprendendo python
+- 💞️ Estou procurando colaborar em projetos que usam python.
+- 📫 Como entrar em contato comigo renansoares756@gmail.com
 
 <!---
 renandev21/renandev21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
