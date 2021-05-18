@@ -1,4 +1,5 @@
 - 👋 Oi, sou Renan Soares
+![Anurag GitHub Status](https://github-readme-stats.vercel.app/api?username=renandev21&custom-title)
 - 👀 Estou interessado em aprender sobre programação.
 - 🌱 Atualmente estou aprendendo python
 - 💞️ Estou procurando colaborar em projetos que usam python.
