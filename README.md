@@ -12,13 +12,11 @@
  <img align="center" alt="Renan-Dj" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
  <img align="center" alt="Renan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
  <img align="center" alt="Renan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-
+</div>
  
 ##
- 
-  
-  
-![Anurag](https://github-readme-stats.vercel.app/api?username=renandev21&custom-title)
+<div>
+ <a href="mailto: renansoares756@mail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&coloColo=white" target="_blank"></a>
 - 👀 Estou .
 - 🌱 Atualmente estou aprendendo python
 - 💞️ Estou procurando colaborar em projetos que usam python.
