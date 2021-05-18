@@ -16,8 +16,7 @@
  
 ##
 <div>
- <a href="mailto: renansoares756@mail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&coloColo=white" target="_blank"></a>
+ <a href="mailto: renansoares756@mail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColo=white" target="_blank"></a>
 - 👀 Estou .
 - 🌱 Atualmente estou aprendendo python
 - 💞️ Estou procurando colaborar em projetos que usam python.
-- 📫 Como entrar em contato comigo renansoares756@gmail.com
