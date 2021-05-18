@@ -12,7 +12,7 @@
   <img align="center" alt="Rafa-Django" height="30" width="40" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4">
   <img align="center" alt="Renan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Renan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Renan-gif" src="https://i.pinimg.com/originals/85/c0/f5/85c0f51e8a2a6a6cffd76d61eeb21c18.gif" width="300">
+  <img align="right" alt="Renan-gif" src="https://i.pinimg.com/originals/85/c0/f5/85c0f51e8a2a6a6cffd76d61eeb21c18.gif" width="200">
 </div>
   
   ##
