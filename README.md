@@ -1,4 +1,4 @@
-[![Anurag's GitHub status](https://github-readme-status.vercel.app/api?username=renandev21)]
+[![Anurag's GitHub status](https://github-readme-status.vercel.app/api?username=renandev21)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Oi, sou Renan Soares
 - 👀 Estou interessado em aprender sobre programação.
 - 🌱 Atualmente estou aprendendo python
