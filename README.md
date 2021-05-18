@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou aprendendo python
 - 💞️ Estou procurando colaborar em projetos que usam python.
 - 📫 Como entrar em contato comigo renansoares756@gmail.com
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/renandev21&custom_title/github-readme-stats)
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/renandev21&custom_title=renandev21/github-readme-stats)
 
 
 
