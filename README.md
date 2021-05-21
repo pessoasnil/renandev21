@@ -1,4 +1,4 @@
-![banner](./gitbanne.png)
+![banner](./gitbanner.jpg)
 
 ```python
 
