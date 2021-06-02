@@ -1,5 +1,3 @@
-![banner](./gitbanner.jpg)
-
 ```python
 
 Renan = {
