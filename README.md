@@ -1,4 +1,19 @@
 ## Oiii! Eu sou o Renan Soares
+<h3>I little bit about me:</h3>
+
+<p align="left">
+    🔭 I’m currently working on improving my development skills
+</p>
+<p align="left">
+    🌱 I’m currently learning web development with the Python and  Django  
+</p>
+<p align="left">
+    🙋🏻‍♂️ I’m looking to collaborate on projects that will give me experience
+</p>
+<p align="left">
+    📫 How to reach me: <a href = "mailto: renansoares756@gmail.com"> e-mail </a> | @Renan Soares - in almost every social media
+</p>
+<br/>
  <div>
   <a href="https://github.com/renandev21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renandev21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -22,20 +37,3 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-<h3>I little bit about me:</h3>
-
-<p align="left">
-    🔭 I’m currently working on improving my development skills
-</p>
-<p align="left">
-    🌱 I’m currently learning web development with the Python and  Django  
-</p>
-<p align="left">
-    🙋🏻‍♂️ I’m looking to collaborate on projects that will give me experience
-</p>
-<p align="left">
-    📫 How to reach me: <a href = "mailto: renansoares756@gmail.com"> e-mail </a> | @Renan Soares - in almost every social media
-</p>
-<br/>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=renandev21&show_icons=true&t&theme=react"/>
