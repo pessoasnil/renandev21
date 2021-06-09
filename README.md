@@ -1,17 +1,17 @@
 ## Oiii! Eu sou o Renan Soares
-<h3>I little bit about me:</h3>
+<h3>Um pouco sobre mim:</h3>
 
 <p align="left">
-    🔭 I’m currently working on improving my development skills
+    🔭 Atualmente, estou trabalhando para melhorar minhas habilidades de desenvolvimento
 </p>
 <p align="left">
-    🌱 I’m currently learning web development with the Python and  Django  
+    🌱 Atualmente, estou aprendendo desenvolvimento web com Python e Django 
 </p>
 <p align="left">
-    🙋🏻‍♂️ I’m looking to collaborate on projects that will give me experience
+    🙋🏻‍♂️ Estou procurando colaborar em projetos que me darão experiência
 </p>
 <p align="left">
-    📫 How to reach me: <a href = "mailto: renansoares756@gmail.com"> e-mail </a> | @Renan Soares - in almost every social media
+    📫 Como entrar em contato comigo:<a href = "mailto: renansoares756@gmail.com"> e-mail </a>
 </p>
 <br/>
  <div>
