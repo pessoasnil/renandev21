@@ -1,18 +1,4 @@
 ## Oiii! Eu sou o Renan Soares
-<h3>Um pouco sobre mim:</h3>
-
-<p align="left">
-    🔭 Atualmente, estou trabalhando para melhorar minhas habilidades de desenvolvimento
-</p>
-<p align="left">
-    🌱 Atualmente, estou aprendendo desenvolvimento web com Python e Django 
-</p>
-<p align="left">
-    🙋🏻‍♂️ Estou procurando colaborar em projetos que me darão experiência
-</p>
-<p align="left">
-    📫 Como entrar em contato comigo:<a href = "mailto: renansoares756@gmail.com"> e-mail </a>
-</p>
 <br/>
  <div>
   <a href="https://github.com/renandev21">
