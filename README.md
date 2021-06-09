@@ -1,4 +1,4 @@
-## Oiii! Seja bem-vindo ao meu github meu nome e Renan Soares
+## Oiii! Bem-vindo ao meu repositorio!
  <div>
   <a href="https://github.com/renandev21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renandev21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
