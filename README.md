@@ -2,7 +2,7 @@
  <div>
  <h3> :memo: &nbsp; Linguagens de programação </h3>
 
-   <code><img height="30" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" alt="Python"/></code>
+   <code><img height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></code>
  
   <a href="https://github.com/renandev21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renandev21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
