@@ -6,8 +6,8 @@
  <h3> :computer: &nbsp; Frameworks e ferramentas </h3>
    <code><img height="30" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Python"/></code>
    <code><img height="30" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" alt="Python"/></code>
-   <code><img height="30" src="https://img.shields.io/badge/-Linux-171615?style=flat&logo=Linux&logoColor=black&color=ff8566" alt="Python"/></code>
-   <code><img height="30" src="https://img.shields.io/badge/-Unittest-171615?style=flat&color=ff8566" alt="Python"/></code>
+   <code><img height="30" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Python"/></code>
+   <code><img height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Python"/></code>
 </div>
 
 ###
