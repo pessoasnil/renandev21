@@ -4,7 +4,7 @@
 
    <code><img height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></code>
    <code><img height="30" src="https://img.shields.io/badge/-Django-171615?style=flat&logo=Django&color=ff8566" alt="Python"/></code>
-   <code><img height="30" src="https://img.shields.io/badge/-VSCode-171615?style=flat&logo=Visual+Studio+Code&logoColor=blue&color=ff8566" alt="Python"/></code>
+   <code><img height="30" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" alt="Python"/></code>
    <code><img height="30" src="https://img.shields.io/badge/-Linux-171615?style=flat&logo=Linux&logoColor=black&color=ff8566" alt="Python"/></code>
    <code><img height="30" src="https://img.shields.io/badge/-Unittest-171615?style=flat&color=ff8566" alt="Python"/></code>
  
