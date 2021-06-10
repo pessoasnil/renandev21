@@ -8,6 +8,21 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renandev21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renandev21&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+ 
+<div>
+ <ul>
+  <h3><li> 🌎 Web e geral </li></h3>
+  <code><img height="30" src="https://img.shields.io/badge/-React-CC342D?style=flat&logo=React&color=ff8566" alt="Python"/></code>
+  <code><img height="30" src="https://img.shields.io/badge/-Django-171615?style=flat&logo=Django&color=ff8566" alt="Python"/></code>
+  <code><img height="30" src="https://img.shields.io/badge/-Bootstrap-171615?style=flat&logo=Bootstrap&color=ff8566&logoColor=white" alt="Python"/></code>
+  <code><img height="30" src="https://img.shields.io/badge/-JQuery-171615?style=flat&logo=JQuery&color=ff8566" alt="Python"/></code>
+  <code><img height="30" src="https://img.shields.io/badge/-VSCode-171615?style=flat&logo=Visual+Studio+Code&logoColor=blue&color=ff8566" alt="Python"/></code>
+  <code><img height="30" src="https://img.shields.io/badge/-Linux-171615?style=flat&logo=Linux&logoColor=black&color=ff8566" alt="Python"/></code>
+  <code><img height="30" src="https://img.shields.io/badge/-Vue.js-171615?style=flat&logo=vue-js&color=ff8566" alt="Python"/></code>
+  <code><img height="30" src="https://img.shields.io/badge/-Unittest-171615?style=flat&color=ff8566" alt="Python"/></code>
+  
+</ul>
+</div>
 
 <div> 
   <a href="https://instagram.com/renan_soares756" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
